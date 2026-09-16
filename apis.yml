@@ -25,12 +25,12 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mixer-labs
 name: Mixer Labs
 description: Mixer Labs was a San Francisco startup, backed by Uncork Capital (formerly SoftTech VC),
   best known for building GeoAPI, a geolocation and geodata web API that let developers resolve places,
-  points of interest, and location context from coordinates. The company was acquired by Twitter in
-  December 2009, where its technology and team (co-founders Elad Gil and Othman Laraki) went on to power
-  Twitter's location and geo features. Mixer Labs no longer operates as an independent company, its
-  mixerlabs.com domain no longer resolves, and it publishes no live API, developer portal, or
-  documentation surface today. This profile is retained in the API Evangelist network as a historical
-  portfolio-company record rather than an active provider awaiting enrichment.
+  points of interest, and location context from coordinates. The company was acquired by Twitter in December
+  2009, where its technology and team (co-founders Elad Gil and Othman Laraki) went on to power Twitter's
+  location and geo features. Mixer Labs no longer operates as an independent company, its mixerlabs.com
+  domain no longer resolves, and it publishes no live API, developer portal, or documentation surface
+  today. This profile is retained in the API Evangelist network as a historical portfolio-company record
+  rather than an active provider awaiting enrichment.
 url: https://raw.githubusercontent.com/api-evangelist/mixer-labs/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -40,14 +40,14 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 x-enrichment:
   date: '2026-07-20'
   status: nochange
   artifacts_added: 0
   pass: local-v1
-  note: Defunct company (GeoAPI, acquired by Twitter Dec 2009); mixerlabs.com does not
-    resolve; no live API/docs/registry surface to search, probe, or derive.
+  note: Defunct company (GeoAPI, acquired by Twitter Dec 2009); mixerlabs.com does not resolve; no live
+    API/docs/registry surface to search, probe, or derive.
 tags:
 - Company
 - Geolocation
@@ -61,3 +61,4 @@ maintainers:
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-status: defunct
